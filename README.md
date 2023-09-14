@@ -1,6 +1,6 @@
 # Projects
 
-Title: Customer Segmentation
+Project Title: Customer Segmentation Clustering
 Description: Data from the following website has been used for this project: https://archive.ics.uci.edu/dataset/352/online+retail.
 I have taken a non Recency, Frequency and Monetary to develop the models. The model clusters customers accordingly to their behaviours.
 Models used are KMeans, Gausian Mixture Models, Agglomerative Hierarchical Clustering, BIRCH (Balanced Iterative Reducing and Clustering using Hierarchies)
